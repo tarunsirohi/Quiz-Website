@@ -1,2 +1,2 @@
 # Quiz Website
-<p>Summer-BootCamp-Project-2024</p>
+<p>Summer BootCamp Project '24</p>
